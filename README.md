@@ -10,7 +10,7 @@ We propose **Co**mpact and **S**wift **Seg**menting 3D **Gaussians**(**CoSSegGau
 
 <!-- Refer to our [paper](https://arxiv.org/abs/2312.00732) for more details. -->
 
-Todo List:
+**Todo List:**
 - [ ] Release major code
 - [ ] Add structural constraint loss
 - [ ] Release zero-shot generated training labels for several scenes
