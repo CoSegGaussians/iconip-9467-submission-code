@@ -8,6 +8,8 @@
 
 We propose **Co**mpact and **S**wift **Seg**menting 3D **Gaussians**(**CoSSegGaussians**), a method for compact 3D-consistent scene segmentation at fast rendering speed with only RGB images input. Please Refer to our paper for more details.
 
+<img width="1000" alt="image" src='media/github_method.pdf'>
+
 <!-- Refer to our [paper](https://arxiv.org/abs/2312.00732) for more details. -->
 
 **Todo List:**
