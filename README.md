@@ -14,8 +14,8 @@ We propose **Co**mpact and **S**wift **Seg**menting 3D **Gaussians**(**CoSSegGau
 
 **Todo List:**
 - [ ] Release major code
-- [ ] Add structural constraint loss
 - [ ] Release zero-shot generated training labels for several scenes
+- [ ] Add structural constraint loss
 <!-- - [ ] Mars -->
 <!-- - [ ] Jupiter -->
 
