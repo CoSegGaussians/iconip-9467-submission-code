@@ -6,7 +6,7 @@
 
 <!-- We propose Gaussian Grouping, which extends Gaussian Splatting to jointly **reconstruct** and **segment** anything in open-world 3D scenes via **lifting 2D SAM**. It also efficiently supports versatile 3D scene **editing** tasks.  -->
 
-We propose **Co**mpact and **S**wift **Seg**menting 3D **Gaussians**(**CoSSegGaussians**), a method for compact 3D-consistent scene segmentation at fast rendering speed with only RGB images input. Please Refer to our paper for more details.
+We propose **Co**mpact and **S**wift **Seg**menting 3D **Gaussians**(**CoSSegGaussians**), a method for compact 3D-consistent scene segmentation at fast rendering speed with only RGB images input, as shown in the below image(qualititatively in (a) and quantitatively in (b) & (c)). Please Refer to our paper for more details.
 
 <img width="1000" alt="image" src='media/github_method.png'>
 
