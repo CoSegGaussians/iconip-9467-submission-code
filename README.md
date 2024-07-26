@@ -1,6 +1,6 @@
-# CoSSegGaussians
+# CoSegGaussians
 
-> **CoSSegGaussians: Compact and Swift Scene Segmenting 3D Gaussians with Dual Feature Fusion**
+> **Learning Segmented 3D Gaussians via Efficient Feature Unprojection for Zero-shot Neural Scene Segmentation**
 <!-- > arXiv 2023  
 > ETH Zurich -->
 
