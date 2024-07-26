@@ -1,4 +1,4 @@
-# CoSegGaussians
+![image](https://github.com/user-attachments/assets/cfaf7112-ffcf-47a7-b119-7ae659bcb203)# CoSegGaussians
 
 > **Learning Segmented 3D Gaussians via Efficient Feature Unprojection for Zero-shot Neural Scene Segmentation**
 <!-- > arXiv 2023  
@@ -6,7 +6,7 @@
 
 <!-- We propose Gaussian Grouping, which extends Gaussian Splatting to jointly **reconstruct** and **segment** anything in open-world 3D scenes via **lifting 2D SAM**. It also efficiently supports versatile 3D scene **editing** tasks.  -->
 
-We propose CoSegGaussians, which achieves compact neural scene segmentation with only posed RGB images, as shown in the below image(qualititatively in (a) and quantitatively in (b)&(c)). Please refer to our paper for more details.
+We propose CoSegGaussians, which achieves compact neural scene segmentation with only posed RGB images, as shown in the below image(qualititatively in (I) and quantitatively in (II)). Please refer to our paper for more details.
 
 <img width="1000" alt="image" src='media/github_method.png'>
 
