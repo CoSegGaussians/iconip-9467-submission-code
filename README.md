@@ -8,7 +8,7 @@
 
 We propose CoSegGaussians, which achieves compact neural scene segmentation with only posed RGB images, as shown in the below image(qualititatively in (a) and quantitatively in (b)&(c)). Please refer to our paper for more details.
 
-<img width="1000" alt="image" src='media/github_method.svg'>
+<img width="1000" alt="image" src='media/github_method.png'>
 
 <!-- Refer to our [paper](https://arxiv.org/abs/2312.00732) for more details. -->
 
