@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/cfaf7112-ffcf-47a7-b119-7ae659bcb203)# CoSegGaussians
+# CoSegGaussians
 
 > **Learning Segmented 3D Gaussians via Efficient Feature Unprojection for Zero-shot Neural Scene Segmentation**
 <!-- > arXiv 2023  
